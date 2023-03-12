@@ -1,0 +1,6 @@
+rootProject.name = 'docker_testcontainers'
+
+include("client", "trading")
+include 'client'
+include 'trading'
+
